@@ -1,5 +1,5 @@
 # Hospital-Management-System
-A website build using HTML , CSS , Javascript , Bootstrap and PHP. Database Management using SQL.
+A website build using HTML , CSS , Javascript , Bootstrap , Animate.css and PHP. Database Management using SQL.
 [Bootstrap](https://getbootstrap.com) is an open source toolkit for developing with HTML, CSS, and JS
 
 # How to Set Up
