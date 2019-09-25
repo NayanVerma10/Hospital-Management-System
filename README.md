@@ -6,4 +6,5 @@ A website build using HTML , CSS , Javascript , Bootstrap and PHP. Database Mana
 <li>Open the Index.php file.(Start the services of your wamp server or whatever method you use to run php code)</li>
 <li>Us <b>Username : admin</b> and <b>Password : pass</b> </li>
 </ol>
+
 Now you are ready to go
